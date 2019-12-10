@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Hmn-Bot Discord Bot
+#### May 2019
 
 ![cube_gif](hmnbot/bot.png)
 
