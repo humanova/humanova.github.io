@@ -1,9 +1,9 @@
 ---
 layout: default
-page.date: 05 may 2019
 ---
 
 # Cube World Community Projects
+May 2019
 
 ![cube_gif](cube/cube.gif)
 <sub>Not: Bu görselde oyunun grafik çatısına müdahele ederek oyunun çizdirme modunu "wireframe" moduna çevirdim ve kendi menülerimi çizdirdim.</sub>

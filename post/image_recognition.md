@@ -2,9 +2,10 @@
 layout: default
 ---
 
-![demo](image_recognition/toplu3.JPG)
-# Image Recognition Projects
 
+# Image Recognition Projects
+#### May 2019
+![demo](image_recognition/toplu3.JPG)
 ### Linkler:
 
 [YuGiOh Card Recognition](https://www.youtube.com/watch?v=-SH2JJEXSmM) : https://www.youtube.com/watch?v=-SH2JJEXSmM
@@ -30,11 +31,7 @@ layout: default
 
 ![simple-nn](image_recognition/simple_net.png)
 
-Mayıs-Haziran 2018 gibi makine öğrenmesi ve derin öğrenme üzerine merağım nedeniyle bu konular hakkında öğrenmeye başladım. Çeşitli online kurslar, videolar ve makaleler okumamın ardından öğrendiklerimi sindirebilmek adına sıfırdan kendi basit neural ağımı yazdım. C++ ile yazdığım bu ağ 3 katmanlı ve 2 giriş 1 çıkış nöronuna sahip. Ağın amacı XOR işleminin sonucunu doğru vermeye optimize olmak. Bu projemi GitHub üzerinde yayınladım ve bu ağı kullanarak basit bir benchmark hazırladım. Bu testi de Youtube'da paylaştım.
-
-Aynı zamanda bu öğrendiğim(okyanusun görünür kısmı) konuyu Matematik dersimde kendi örneklerimle ve gerçek hayattan örneklerle Proje konum olarak sundum. **Cost Fonksiyonu**, **Gradient Descent** ile fonksiyon optimize etme ve **Yapay Sinir Ağları** hakkında sunumumda detaylı bir şekilde matematik ve istastik anlattım. Bu sunumuma aşağıdaki adresten erişebilirsiniz :). 
-
-[Makine Öğrenmesi Sunumu](https://drive.google.com/open?id=1e7K_sxOyaU4e1akAUMyWp4fy3-HCl3cJ) : https://drive.google.com/open?id=1e7K_sxOyaU4e1akAUMyWp4fy3-HCl3cJ
+Mayıs-Haziran 2018 gibi makine öğrenmesi ve derin öğrenme üzerine merağım nedeniyle bu konular hakkında öğrenmeye başladım. Çeşitli online kurslar, videolar ve makaleler okumamın ardından öğrendiklerimi sindirebilmek adına sıfırdan kendi basit neural ağımı yazdım. Yazdığım ağ 3 katmanlı ve 2 giriş 1 çıkış nöronuna sahip. Ağın amacı XOR işleminin sonucunu doğru vermeye optimize olmak. Bu projemi GitHub üzerinde yayınladım ve bu ağı kullanarak basit bir benchmark hazırladım. Bu testi Youtube'da paylaştım.
 
 ## YuGiOh Kart Tanıma Modeli
 ---
