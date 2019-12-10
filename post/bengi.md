@@ -26,7 +26,6 @@ layout: default
 Son birkaç yıldır _**low level programming**_ ve _**reverse engineering**_ gibi konularla ilgilenmemin ardından, programlama dillerine ve **derleyici teorisi**ne olan merağım da artmaya başladı. Uzun zamandır kafama takılan bu konuyu, **Kasım-Aralık 2018** gibi araştırmaya başladım. Dil dediğimiz şey nedir, nasıl çalışır, yazdığımız kodu işlemci nasıl yorumlar gibi soruların cevaplarını öğrenebilmek adına derleyici teorisini öğrenmeye başladım. Ardından *-az bilmemin getirdiği özgüven ile-* kendi dilimi yazmaya karar verdim.
 
  Kendi dilimi yazmaya karar verdiğim sırada aslında bu konu üzerindeki bilgim epey azdı. Bu zamanlar kafamdaki şey; **makine koduna derlenen fonksiyonel bir dil** yazmak, bu dili **_Python_** gibi yorumlanan ve görece yavaş çalışan bir dilde performans gerektiren işlerde kullanmaktı. Ancak bunu yapabilmem için gerekli olan bilgim ve deneyimim hiç yoktu.
-(Kafamdaki bu dilin çok uğraştırıcı ve zaman alıcı bir şey olduğunu şuan da belirtmek istiyorum. _**Intel**_'in kendi `x64` ve `x86` mimarisini anlattığı  kılavuzun 5000 sayfaya yakın olduğunu göz önünde bulundurursak, aklımdaki dilin **syntax**'ini oluşturup düzgün bir şekilde parse edebilsem bile işlemci instructionlarına dönüştürmem epey zamanımı alırdı)
 
 Bu nedenle daha kolay konseptler üzerinde kendimi geliştirip sonrasında bu hayalimi gerçekleştirmeye karar verdim. Aklıma gelen basit konseptler arasından (_**interpreted** ya da **bytecode**'a derlenen bir VM dili_) bir **sanal makine**(VM) dili oluşturmayı seçtim. 
 
