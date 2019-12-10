@@ -10,7 +10,7 @@ bilingiual blog, i('ll) share stuff that i find interesting (mostly software rel
 
 ---
 
-## (tr) BengiVM - BengiASM
+## BengiVM - BengiASM (turkish) 
 ---
 [![bengi_post](post/bengi/apply_bau_ornek.gif)](post/bengi)
 
@@ -18,7 +18,7 @@ Sanal makine ve programlama dili projem.
 
 [Read the post](post/bengi.html)
 
-## (tr) YuGiOh Card Recognition and Soldat Real-time Player Detection
+## YuGiOH - Soldat Image Recognition (turkish) 
 ---
 [![ir_post](post/image_recognition/toplu3.JPG)](post/image_recognition)
 
@@ -26,14 +26,14 @@ Görüntü tanıma projelerim.
 
 [Read the post](post/image_recognition.html)
 
-## (tr) My Cube World Game Community Projects
+## Cube World Community Projects (turkish) 
 ---
 [![cube_post](post/cube/cube.gif)](post/cube)
 Cube World oyuncu topluluğu adına yaptığım Reverse Engineering ve Web projelerim.
 
 [Read the post](post/cube.html)
 
-## (tr) Hmn-Bot Discord Bot
+## Hmn-Bot Discord Bot (turkish) 
 ---
 [![hmnbot_post](post/hmnbot/bot.png)](post/hmnbot)
 

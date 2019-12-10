@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 05 may 2019
+page.date: 05 may 2019
 ---
 
 # Cube World Community Projects
