@@ -34,12 +34,3 @@ Görüntü tanıma projelerim.
 Cube World oyuncu topluluğu adına yaptığım Reverse Engineering ve Web projelerim.
 
 [Read the post](post/cube.html)
-
----
-## Hmn-Bot Discord Bot (turkish) 
-
-[![hmnbot_post](post/hmnbot/bot.png)](post/hmnbot)
-
-Discord botum.
-
-[Read the post](post/hmnbot.html)
